@@ -20,7 +20,7 @@ memory = psutil.virtual_memory()
 
 def main():
     print("=== System Information ===")
-    # ... all your print statements here
+    
     
 if __name__ == "__main__":
     main()
